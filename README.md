@@ -3,14 +3,14 @@
 How To Run The Code:
 
 
-Step 1:  Paste Leakybucket.cc and Tokenbucket.cc in Ns-allinone-3.35 -> ns 3.35 -> 	     scratch 
+Step 1:  Paste Leakybucket.cc and Tokenbucket.cc in Ns-allinone-3.35 -> ns 3.35 ->scratch 
 
 Step 2:    Right click and click on open with terminal and type cd ..
 
- Step 3:  Run this command for Leakybucket algorithm 
+Step 3:  Run this command for Leakybucket algorithm 
 
-                               ./waf –run  scratch/leakybucket.cc
+        	 ./waf –run  scratch/leakybucket.cc
 
-	     Run this command for TokenBucket algorithm
+step 4: Run this command for TokenBucket algorithm
 
-			./waf –run  scratch/tokenbucket.cc
+		./waf –run  scratch/tokenbucket.cc
